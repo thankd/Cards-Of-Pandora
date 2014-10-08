@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_LogonNome" value="name:Pseudonimo;datatype:string" />
+	<infoitem key="UD_Nivel" value="name:IdNivel;datatype:int" />
+	<infoitem key="UD_Qtd_Cristais" value="name:QtdCristais;datatype:int" />
+	<infoitem key="UD_Qtd_Ruby" value="name:QtdRuby;datatype:int" />
+	<infoitem key="UD_Id" value="name:IdPessoa;datatype:int" />
+	<infoitem key="UD_srId" value="name:IdPessoa;datatype:int" />
+</info>

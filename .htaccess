@@ -1,0 +1,13 @@
+
+# DO NOT REMOVE THIS LINE AND THE LINES BELOW REDIRECTID:uGyWyWaXuj
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^cardsofpandora.hol.es$ [OR]
+RewriteCond %{HTTP_HOST} ^www.cardsofpandora.hol.es$
+RewriteRule ^pages/confirmar$ http://cardsofpandora.tk [R=301,L]
+# DO NOT REMOVE THIS LINE AND THE LINES ABOVE uGyWyWaXuj:REDIRECTID
+
+
+
+
+
+AddType text/cache-manifest .appcache

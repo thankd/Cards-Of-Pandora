@@ -1,0 +1,147 @@
+#Btn_Voltar {
+	position: absolute;
+	width: 164px;
+	height: 55px;
+	z-index: 2;
+	left: 651px;
+	top: 403px;
+}
+#EstiloCenter {
+	position: absolute;
+	width: 517px;
+	height: 42px;
+	z-index: 2;
+	left: 299px;
+	top: 283px;
+	text-align: center;
+	font: Verdana, Geneva, sans-serif;
+	font-size: 22px;
+}
+body {
+	background-color: #333;
+}
+.login_style {
+	color: #000;
+}
+.letras {
+	font-size: 17px;
+	text-align: center;
+}
+.recuperar {
+	font-size: 15px;
+	text-align: right;
+}
+#apDiv1 {
+	position: absolute;
+	width: 868px;
+	height: 387px;
+	z-index: 2;
+	left: 107px;
+	top: 174px;
+	color: #ECEEF0;
+}
+#apDiv2 {
+	position: absolute;
+	width: 746px;
+	height: 320px;
+	z-index: 2;
+	left: 83px;
+	top: 40px;
+	color: #000;
+	font-weight: bold;
+	text-align: center;
+}
+#apDiv3 {
+	position: absolute;
+	width: 282px;
+	height: 36px;
+	z-index: 2;
+	left: 11px;
+	top: 253px;
+	color: #F00;
+	font-weight: bold;
+}
+#apDiv4 {
+	position: absolute;
+	width: 189px;
+	height: 205px;
+	z-index: 2;
+	left: 81px;
+	top: 118px;
+	color: #000;
+	font-weight: bold;
+	text-align: center;
+}
+#apDiv5 {
+	position: absolute;
+	width: 122px;
+	height: 24px;
+	z-index: 2;
+	left: 673px;
+	top: 251px;
+}
+#apDiv6 {	position: absolute;
+	width: 323px;
+	height: 320px;
+	z-index: 2;
+	left: 70px;
+	top: 39px;
+	color: #000;
+	font-weight: bold;
+}
+#apDiv7 {	position: absolute;
+	width: 399px;
+	height: 331px;
+	z-index: 2;
+	left: 428px;
+	top: 40px;
+	color: #000;
+	font-weight: bold;
+}
+#apDiv8 {	position: absolute;
+	width: 104px;
+	height: 110px;
+	z-index: 2;
+	left: 61px;
+	top: 106px;
+	color: #000;
+	font-weight: bold;
+}
+#apDiv9 {	position: absolute;
+	width: 323px;
+	height: 320px;
+	z-index: 2;
+	left: 70px;
+	top: 39px;
+	color: #000;
+	font-weight: bold;
+}
+#apDiv10 {	position: absolute;
+	width: 323px;
+	height: 320px;
+	z-index: 2;
+	left: 70px;
+	top: 39px;
+	color: #000;
+	font-weight: bold;
+}
+
+
+:required {
+  border-color: #000;
+  -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, .5);
+  -moz-box-shadow: 0 0 5px rgba(0, 0, 0, .5);
+  -o-box-shadow: 0 0 5px rgba(0, 0, 0, .5);
+  -ms-box-shadow: 0 0 5px rgba(0, 0, 0, .5);
+  box-shadow: 0 0 5px rgba(0, 0,0, .5);
+}
+#apDiv11 {	position: absolute;
+	width: 746px;
+	height: 320px;
+	z-index: 2;
+	left: 83px;
+	top: 40px;
+	color: #000;
+	font-weight: bold;
+	text-align: center;
+}

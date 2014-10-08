@@ -1,0 +1,132 @@
+#apDiv3 {
+	position: absolute;
+	width: 200px;
+	height: 115px;
+	z-index: 1;
+	left: 598px;
+	top: -132px;
+}
+#apDiv4 {
+	position: absolute;
+	width: 200px;
+	height: 115px;
+	z-index: 5;
+	left: 185px;
+	top: 70px;
+}
+#des {
+	color: white;
+	font-size 40px;
+}
+#titulo_ {
+	color: white;
+	margin-left: 300px;
+	font: italic small-caps bold 34px
+ 	"Verdana", sans-serif;	
+}
+#apDiv {
+	position: absolute;
+	width: 448px;
+	height: 78px;
+	z-index: 1;
+	left: 399px;
+	top: 223px;
+	font-weight: bold;
+}
+#apDiv5 {
+	position: absolute;
+	width: 200px;
+	height: 115px;
+	z-index: 2;
+}
+#apDiv6 {
+	position: absolute;
+	width: 499px;
+	height: 478px;
+	z-index: 2;
+	left: 556px;
+	top: 320px;
+}
+.Tabela_DinamicaTOP {
+	font-size: 18px;
+	color: black;
+	border:medium;	
+	background-color: white;
+	font-weight: bold;
+	font: italic small-caps bold 20px
+ 	"Verdana", sans-serif;
+}
+.Tabela_Dinamica {
+	background-color: black;
+	font-size: 16px;
+	color: white;
+	border:medium;	
+	font-weight: bold;
+	border: thin solid white;
+	font: italic small-caps bold 20px
+ 	"Verdana", sans-serif;
+}
+#apDiv7 {
+	position: absolute;
+	width: 200px;
+	height: 115px;
+	z-index: 3;
+	left: 373px;
+	top: 238px;
+}
+#apDiv8 {
+	position: absolute;
+	width: 628px;
+	height: 29px;
+	z-index: 1;
+	left: 508px;
+	top: 291px;
+	color: white;
+	font: italic small-caps bold 18px
+ 	"Verdana", sans-serif;
+}
+
+#apImg {
+	position: absolute;
+	width: 87px;
+	height: 26px;
+	z-index: 1;
+	left: 113px;
+	top: 377px;
+	background-color: black;
+	color: white;
+	font: italic small-caps bold 18px
+ 	"Verdana", sans-serif;
+	text-align: center;
+	text-decoration: none;
+	cursor: pointer;
+	display:none;
+}
+#apImgURL {
+	position: absolute;
+	width: 388px;
+	height: 132px;
+	z-index: 2;
+	left: 202px;
+	top: 269px;
+	background-color: black;
+	color: white;
+	font: italic small-caps bold 18px
+ 	"Verdana", sans-serif;
+	text-align: center;
+	text-decoration: none;
+	border: thin solid white;
+	border-radius: 10px;
+	display:none;
+	z-index:10;
+}
+#btn_close {
+	background-color: white;
+	color: red;
+	float: right;
+	padding: 5px;
+	border-top-right-radius:6px;
+	border-bottom-left-radius:6px;
+	cursor: pointer;
+	border: thin solid white;
+}

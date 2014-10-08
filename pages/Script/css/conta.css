@@ -1,0 +1,95 @@
+#apDiv3 {
+	position: absolute;
+	width: 200px;
+	height: 115px;
+	z-index: 1;
+	left: 598px;
+	top: -132px;
+}
+#apDiv4 {
+	position: absolute;
+	width: 200px;
+	height: 115px;
+	z-index: 5;
+	left: 185px;
+	top: 70px;
+}
+#Center {
+	text-align:left;	
+	padding-left: 220px;
+	font: 20px Verdana, sans-serif;
+	color: white;
+}
+#Center a:link{
+		color: white;
+		text-decoration: none
+}
+#Center a:visited{
+		color: white;
+		text-decoration: none
+}
+#Center a:hover {
+		color: #0FC;
+		cursor:pointer;
+}
+#Center li {
+	color: white;
+	padding:10px;	
+}
+#bg_central h1{
+			font: Verdana, sans-serif;
+			color:white;
+			text-align:center;
+}
+
+#apImg {
+	position: absolute;
+	width: 87px;
+	height: 26px;
+	z-index: 1;
+	left: 113px;
+	top: 377px;
+	background-color: black;
+	color: white;
+	font: italic small-caps bold 18px
+ 	"Verdana", sans-serif;
+	text-align: center;
+	text-decoration: none;
+	cursor: pointer;
+	display:none;
+}
+#apImgURL {
+	position: absolute;
+	width: 388px;
+	height: 132px;
+	z-index: 2;
+	left: 202px;
+	top: 269px;
+	background-color: black;
+	color: white;
+	font: italic small-caps bold 18px
+ 	"Verdana", sans-serif;
+	text-align: center;
+	text-decoration: none;
+	border: thin solid white;
+	border-radius: 10px;
+	display:none;
+}
+#btn_close {
+	background-color: white;
+	color: red;
+	float: right;
+	padding: 5px;
+	border-top-right-radius:6px;
+	border-bottom-left-radius:6px;
+	cursor: pointer;
+	border: thin solid white;
+}
+#Fortalecer {
+	position: absolute;
+	width: 145px;
+	height: 92px;
+	z-index: 1;
+	left: 118px;
+	top: 555px;
+}

@@ -1,0 +1,211 @@
+#apDiv3 {
+	position: absolute;
+	width: 200px;
+	height: 115px;
+	z-index: 1;
+	left: 598px;
+	top: -132px;
+}
+#apDiv4 {
+	position: absolute;
+	width: 200px;
+	height: 115px;
+	z-index: 5;
+	left: 185px;
+	top: 70px;
+}
+
+#topLabel {
+	position: absolute;
+	width: 900px;
+	height: 50px;
+	z-index: 1;
+	left: 190px;
+	top: 218px;
+	background-color: black;
+}
+#botLabel {
+	position: absolute;
+	width: 1052px;
+	height: 769px;
+	z-index: 2;
+	left: 191px;
+	top: 213px;
+	z-index: 5;
+}
+#apDiv5  {
+	position: absolute;
+	width: 900px;
+	height: 48px;
+	z-index: 3;
+	left: 200px;
+	top: 888px;
+	background-color: black;
+	border-bottom-left-radius: 6px;
+	border-bottom-right-radius: 6px;
+	color: white;
+	font: italic small-caps bold 18px
+ 	"Verdana", sans-serif;
+	padding-top: 5px;
+	text-align:center;
+}
+a:link, a:visited, a:hover{
+	text-decoration:none;
+	color: white;
+	font: italic small-caps bold 18px
+ 	"Verdana", sans-serif;
+}
+#UserNivel2 {
+	position: absolute;
+	width: 117px;
+	height: 40px;
+	top: 40px;
+	left: 368px;
+	text-align: center;
+	color: white;
+	font: italic small-caps bold 20px
+ 	"Verdana", sans-serif;
+	z-index: 10;
+}
+#xp {
+	position: absolute;
+	width: 337px;
+	height: 44px;
+	top: 67px;
+	left: 296px;
+	text-align: center;
+	color: white;
+	font: italic small-caps bold 17px
+ 	"Verdana", sans-serif;
+	z-index: 10;
+}
+
+#UserCristais2 {
+	position: absolute;
+	width: 183px;
+	height: 26px;
+	left: 799px;
+	text-align: right;
+	color: white;
+	font: italic small-caps bold 20px
+ 	"Verdana", sans-serif;
+	z-index: 10;
+	top: 61px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+W
+}
+#UserCristais2 a{
+	text-shadow:#000 3px -1px 3px, #000 -3px 1px 3px, #000 3px 1px 3px, #000 -3px -1px 3px;
+	color: white;
+}
+#UserPergaminhos2 {
+	position: absolute;
+	width: 259px;
+	height: 26px;
+	left: 722px;
+	text-align: right;
+	color: white;
+	font: italic small-caps bold 20px
+ 	"Verdana", sans-serif;
+	z-index: 10;
+	top: 40px;
+}
+#UserPergaminhos2 a{
+	text-shadow:#000 3px -1px 3px, #000 -3px 1px 3px, #000 3px 1px 3px, #000 -3px -1px 3px;
+	color: white;
+}
+
+#UserName2 {
+	position: absolute;
+	width: 235px;
+	height: 23px;
+	top: 32px;
+	left: 168px;
+	text-align: left;
+	color: white;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 16px;
+	z-index: 10;
+	font: italic small-caps bold 20px
+ 	"Verdana", sans-serif;
+}
+#UserName2 a{
+font-family: Verdana, Geneva, sans-serif;
+	text-shadow:#000 1px -1px 2px, #000 -1px 1px 2px, #000 1px 1px 2px, #000 -1px -1px 2px;
+	color: white;
+font-size: 36px;
+}
+#apDiv6 {
+	position: absolute;
+	width: 900px;
+	height: 600px;
+	z-index: 1;
+	left: 159px;
+	top: 264px;
+}
+#apDiv7 {
+	position: absolute;
+	width: 140px;
+	height: 168px;
+	z-index: 6;
+	left: 20px;
+	top: 481px;
+	color: white;
+	font: italic small-caps bold 15px
+ 	"Verdana", sans-serif;
+	background-color: black;
+	border-radius: 6px;
+	padding-left: 10px;
+	padding-top: 5px;
+	border: thin solid white;
+}
+#close {
+	background-color: white;
+	margin-left:110px;
+	padding-left: 3px;
+	padding-right: 3px;
+	color: red;
+	border:thin solid white;	
+	cursor: pointer;
+}
+#apDiv8 {
+	position: absolute;
+	width: 233px;
+	height: 26px;
+	z-index: 7;
+	left: 258px;
+	top: 252px;
+	color: white;
+	font: italic small-caps bold 18px
+ 	"Verdana", sans-serif;
+}

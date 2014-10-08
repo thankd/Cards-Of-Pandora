@@ -1,0 +1,32 @@
+body {
+	background-color: #333;
+	font-size: 16px;
+}
+#apDiv1 p{
+	font: Verdana, Geneva, sans-serif;
+	text-align: justify;
+	font-size: 18px;
+}
+#agua{
+	color:#00C;
+}
+#fogo{
+	color:#F00;
+}
+#terra{
+	color:#3F0;
+}
+#ar{
+	color:#0CC;
+}
+#espirito{
+	color: #FC3;
+}
+#apDiv1 {
+	position: absolute;
+	width: 948px;
+	height: 399px;
+	z-index: 2;
+	left: 65px;
+	top: 155px;
+}

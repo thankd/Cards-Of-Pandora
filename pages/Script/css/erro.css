@@ -1,0 +1,22 @@
+body {
+	background-color: #333;
+}
+.login_style {
+	color: #FFF;
+}
+.letras {
+	font-size: 17px;
+	text-align: center;
+}
+.recuperar {
+	font-size: 15px;
+	text-align: right;
+}
+#apDiv1 {
+	position: absolute;
+	width: 514px;
+	height: 400px;
+	z-index: 2;
+	left: 58px;
+	top: 156px;
+}
