@@ -38,7 +38,7 @@ Ao jogar uma carta você ganhará um território, é poderá pegar territórios 
 
 ![](http://i.imgur.com/yZst6ih.jpg)
 
-## Implementação - Info ##
+## Desenvolvimento
 > O jogo conta com um sistema php para autenticação de usuário e armazenamento de seus dados em um banco de dados mysql.
 
 > O Canvas principal onde o jogo é renderizado e armazenado no cache do navegador se encontra no arquivo : [pages/application.php](https://github.com/thankd/Cards-Of-Pandora/blob/master/pages/application.php). 
