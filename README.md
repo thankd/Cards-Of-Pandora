@@ -2,7 +2,7 @@
 
 ## Cards Of Pandora — online game in html5 and js
 
-**Cards of Pandora** é um projeto implementado durante 20 semanas pelo aluno thales r. onde fazendo o uso do html 5, propôs o desenvolvimento de um jogo utilizando essa nova tecnologia.o projeto foi implementado para ser o seu tcc (trabalho de conclusão de curso).
+**Cards of Pandora** é um projeto implementado durante 20 semanas pelo aluno Thales R. onde fazendo o uso do html 5, propôs o desenvolvimento de um jogo utilizando essa nova tecnologia.o projeto foi implementado para ser o seu tcc (trabalho de conclusão de curso).
 
 ## Especificações
 
