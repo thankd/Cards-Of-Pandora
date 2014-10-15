@@ -45,7 +45,7 @@ Ao jogar uma carta você ganhará um território, é poderá pegar territórios 
 
 > Os arquivos (js) do jogo estão comentados e podem ser vistos na pasta: [pages/script](https://github.com/thankd/Cards-Of-Pandora/tree/master/pages/Script). 
 
-[Site do jogo](http://cardsofpandora.tk/)
+> [Site do jogo](http://cardsofpandora.tk/)
 
 ## Screenshots
 
